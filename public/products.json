@@ -1,0 +1,66 @@
+
+[
+  {
+    "id":1,
+    "title":"Pantalon clasico",
+    "category": "Ropa",
+    "price": 63.85,
+    "image":"/images/products/image1.png",
+    "status": "Best Selers"
+  },
+  {
+    "id":2,
+    "title":"Bolso deportivo",
+    "category": "Bolsos",
+    "price": 130.00,
+    "image":"/images/products/image2.png",
+    "status": "Best Selers"
+  },
+  {
+    "id":3,
+    "title":"Bufanda",
+    "category": "Ropa",
+    "price": 53.00,
+    "image":"/images/products/image3.png",
+    "status": "Best Selers"
+  },
+  {
+    "id":4,
+    "title":"Sudadera con capucha",
+    "category": "Camisetas",
+    "price": 63.85,
+    "image":"/images/products/image4.png",
+    "status": "New Arriaval"
+  },
+  {
+    "id":5,
+    "title":"Vestido verde",
+    "category": "Ropa",
+    "price": 236.00,
+    "image":"/images/products/image5.png",
+    "status": "New Arriaval"
+  },
+  {
+    "id":6,
+    "title":"Calzado deportivo",
+    "category": "Calzados",
+    "price": 198.00,
+    "image":"/images/products/image6.png",
+    "status": "Best Selers"
+  },
+  {
+    "id":7,
+    "title":"Chaqueta deportiva",
+    "category": "Camisetas",
+    "price": 120.50,
+    "image":"/images/products/image7.png",
+    "status": "Best Selers"
+  },
+  {
+    "id":8,
+    "title":"Gafa",
+    "category": "Gafas",
+    "price": 160.00,
+    "image":"/images/products/image8.png"
+  }
+]
